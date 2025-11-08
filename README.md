@@ -1,4 +1,7 @@
 # Weather Forecast Application
+<img width="1414" height="700" alt="Screen Shot 2024-11-30 at 8 14 07 PM" src="https://github.com/user-attachments/assets/75a897c4-bb46-42c6-8c4f-1ea6d84dc926" />
+
+![Uploading Screen Shot 2024-11-26 at 5.06.26 PM.png…]()
 
 #### Video Demo: [https://youtu.be/AggYgaLEQdM?si=u6J87QS1isaifOuA]
 
